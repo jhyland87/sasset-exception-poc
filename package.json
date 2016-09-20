@@ -1,0 +1,25 @@
+{
+  "name": "node-exceptions-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "app-root-path": "^2.0.1",
+    "lodash": "^4.16.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhyland87/sasset-exception-poc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhyland87/sasset-exception-poc/issues"
+  },
+  "homepage": "https://github.com/jhyland87/sasset-exception-poc#readme",
+  "description": ""
+}
